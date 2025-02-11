@@ -344,7 +344,7 @@ comment:
   # Whether to enable comment
   enable: true
   # Comment system
-  system: gitcuz # waline, gitalk, twikoo, giscus
+  system: gitcus # waline, gitalk, twikoo, giscus
   # System configuration
   config:
     # Waline comment system. See https://waline.js.org/
