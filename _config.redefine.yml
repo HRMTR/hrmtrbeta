@@ -379,7 +379,7 @@ comment:
       emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
       lang: zh-CN # Giscus language. e.g. en, zh-CN, zh-TW
       input_position: top # Place the comment box above/below the comments. e.g. top, bottom
-      loading: lazy # Load the comments lazily
+      loading: not-lazy # Load the comments lazily
 # COMMENT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
