@@ -88,8 +88,8 @@ global:
   single_page: true
   # Whether to enable Preloader.
   preloader:
-    enable: false
-    custom_message: # Custom message. If empty, the site title will be displayed
+    enable: true
+    custom_message: 欢迎来到HRMTR
   # Whether to enable open graph
   open_graph:
     enable: true
@@ -423,7 +423,7 @@ inject:
 # PLUGINS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 # Docs: https://redefine-docs.ohevan.com/plugins
 plugins:
-  # RSS feed. Requires hexo-generator-feed (npm i hexo-generator-feed). See https://github.com/hexojs/hexo-generator-feed
+  # RSS feed. Requires hexo-generator-feed (npm i hexo-generator-feed). See https://github.com/ /hexo-generator-feed
   feed:
     enable: false # Whether to enable
   # Aplayer. See https://github.com/DIYgod/APlayer
