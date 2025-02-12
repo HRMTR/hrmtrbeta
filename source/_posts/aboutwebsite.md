@@ -26,7 +26,7 @@ wwg购买的（还挺便宜）
 私信我QQ（29771562）然后发来你的帖子，（Markdown格式，不知道咋弄看这个：[https://markdown.com.cn/basic-syntax/](https://markdown.com.cn/basic-syntax/)），我会审核完后发布。
 
 #### 程序员版
-在本地搭建这个网站（不会看这个[帖子](/2025/02/12/bildweb/)），然后运行命令
+在本地搭建这个网站（不会看这个[帖子](/2025/02/12/buildweb/)），然后运行命令
 ``` powershell
 hexo new "你的标题"
 ```
