@@ -2,7 +2,7 @@
 title: 如何通过服务器源码构建网站
 date: 2025-02-12 16:17:36
 tags:
-sticky: 996
+sticky: 995
 ---
 ## 准备
 你需要[NodeJS](https://nodejs.org)（＞15）和git
