@@ -4,4 +4,4 @@ date: 2025-02-13 21:46:00
 tags:
 sticky: 996
 ---
-![服务器地铁线路图](https://HRMTR/hrmtrbeta/source/images/3rd 1.4.0.png)
+![服务器地铁线路图](source/images/railmap.png)
