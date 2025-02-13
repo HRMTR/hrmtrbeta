@@ -222,7 +222,7 @@ navbar:
       icon: fa-regular fa-link
       submenus:
         Leon轨道交通: https://leonmmcoset.github.io/vitepress/teach/mtr7180.html
-        永盛工艺（建设中）: https://linfengjqwq.github.io/fpcraft/
+        永盛工艺: https://linfengjqwq.github.io/fpcraft/
         云山城市建设服务器（无官网）: /
         MTR小众服务器: http://wujdyd.rth1.xyz/
     # ...... # you can add more
