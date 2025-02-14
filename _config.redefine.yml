@@ -131,7 +131,7 @@ home_banner:
   title: HRMTR官网
   # Home banner subtitle
   subtitle:
-    text: ["新官网，新气象","旧的不去，新的不来","新官网By LeonMMcoset"] # subtitle text, array
+    text: ["新官网，新气象","旧的不去，新的不来","新官网By LeonMMcoset","HRMTR期待您的加入！"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
