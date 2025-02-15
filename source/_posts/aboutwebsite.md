@@ -5,6 +5,7 @@ tags:
 # 这是为了能让他靠顶
 sticky: 996
 ---
+![hrmtrbeta](https://socialify.git.ci/HRMTR/hrmtrbeta/image?custom_description=HRMTR%E6%96%B0%E5%AE%98%E7%BD%91&description=1&font=Source+Code+Pro&language=1&logo=https%3A%2F%2Ftse1-mm.cn.bing.net%2Fth%2Fid%2FOIP-C.qnK8ougQSE50L_P70s-JowHaIi%3Frs%3D1%26pid%3DImgDetMain&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto)
 这个网站其实是新的，原来的网站是wwg~~（其实是AI）~~写的~~（写的就是依托石）~~，
 
 随后在我服（Leon轨道交通）与HRMTR建交后，我（LeonMMcoset）看到了这个官网，随后我接手了这个项目。
