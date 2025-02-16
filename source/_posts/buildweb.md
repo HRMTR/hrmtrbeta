@@ -9,16 +9,16 @@ sticky: 995
 
 ## 教程
 首先，将源代码下载到自己的服务器
-``` powershell
+``` bash
 git clone https://github.com/HRMTR/hrmtrbeta.git
 ```
 然后进入`hrmtrbeta`文件夹，运行
-``` powershell
+``` bash
 npm install
 npm install hexo-cli
 ```
 最后运行
-``` powershell
+``` bash
 hexo server
 ```
 即可启动网站，打开`localhost:4000`来打开网站。
