@@ -28,7 +28,7 @@ wwg购买的（还挺便宜）
 
 #### 程序员版
 在本地搭建这个网站（不会看这个[帖子](/2025/02/12/buildweb/)），然后运行命令
-``` powershell
+``` bash
 hexo new "你的标题"
 ```
 然后在`source/_posts`文件夹下找到你的文件，用Markdown写，写完后运行，测试成功后上传到你复刻后的仓库，然后给官网仓库提交PR（Pull Request）。
