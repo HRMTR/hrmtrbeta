@@ -3,6 +3,7 @@ title: 议会主席CrepperX出事
 date: 2025-03-02 15:50:44
 tags:
 ---
+{% note success %} 此问题已解决。 {% endnote %}
 议会主席CrepperX在没发出任何信息的情况下退出他所在的大多数群聊，并解散`HRMTR中央议会讨论群`和`HR交通集团责任有限公司群`。
 
 目前HRMTR管理组已紧急处理，请服务器玩家们不要慌张。
